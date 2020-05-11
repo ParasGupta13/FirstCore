@@ -19,6 +19,6 @@ namespace FirstCore
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();  //change by paras
+                .UseStartup<Startup>();  //change by paras gupta
     }
 }
