@@ -10,7 +10,7 @@ namespace FirstCore.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        // GET api/values
+        // GET api/values/Vijay
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
